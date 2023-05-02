@@ -1,0 +1,21 @@
+AGENT,TYPE,LABEL,SHAPE,STYLE,COLOR,LW,ARROWHEAD,LCOLOR
+SELF,0,Self,ellipse,solid,grey,4,normal,black
+ASSOCIATE,0,Associate,ellipse,solid,grey,4,normal,black
+BIBA,0,Ambulance,ellipse,solid,grey,4,normal,black
+BIBP,0,Police,ellipse,solid,grey,4,normal,black
+BIBPA,0,Police\n+\nAmbulance,ellipse,solid,grey,4,normal,black
+ED,1,Emergency\nDepartment,rectangle,solid,mediumseagreen,8,normal,black
+OBS,1,Observation\nWard,rectangle,solid,mediumseagreen,8,normal,black
+EDY,1,Emergency\nPsychiatry,rectangle,solid,violet,8,normal,black
+MHOA,1,Mental Health\nObservation Area,rectangle,solid,gold,8,normal,black
+ADMIT,2,Mental\nHealth Unit,ellipse,solid,grey,4,normal,black
+DC,2,Discharge,ellipse,solid,grey,4,normal,black
+PUBVOL,2,Voluntary,box,dashed,grey,4,none,grey
+INVOL,2,Involuntary,box,dashed,grey,4,none,grey
+PRIVOL,2,Private\n(Voluntary),box,dashed,grey,4,none,grey
+ALONE,2,Alone,box,dashed,grey,4,none,grey
+ACCOM,2,Accompanied,box,dashed,grey,4,none,grey
+GP,2,GP,box,dashed,grey,4,none,grey
+CP,2,Clinical\nPsychologist,box,dashed,grey,4,none,grey
+CMH,2,Community\nMental Health,box,dashed,grey,4,none,grey
+DAMA,2,Discharge\nAgainst\nMedical\nAdvice,ellipse,solid,grey,4,normal,black

@@ -1,0 +1,32 @@
+ID,type,code,colour,label
+EDIS,RECORD,0,burlywood,EDIS
+EDYHO,RECORD,0,burlywood,Psych\nHandover Sheet
+EXTREF,RECORD,0,burlywood,External\nReference
+FILE,RECORD,0,burlywood,Patient File
+HW,RECORD,0,burlywood,Handwritten\nNote
+MGMTPLAN,RECORD,0,burlywood,Management\nPlan
+MHOAAD,RECORD,0,burlywood,MHOA\nAdmissions Form
+MHOAHO,RECORD,0,burlywood,MHOA\nHandover Sheet
+PSOLIS,RECORD,0,burlywood,PSOLIS
+RISK,RECORD,0,burlywood,Risk\nAssessment
+CON,ED_DOC,1,mediumseagreen,Consultant
+INT,ED_DOC,1,mediumseagreen,Intern
+REG,ED_DOC,1,mediumseagreen,Registrar
+RMO,ED_DOC,1,mediumseagreen,Resident
+MCON,MHOA_Y,2,gold,MHOA\nPsych Consultant
+MREG,MHOA_Y,2,gold,MHOA\nPsych Registrar
+MHOACOORD,MHOA_Y,2,gold,MHOA\nCoordinator
+MHOAN,MHOA_Y,2,gold,MHOA\nNurse
+YCON,ED_Y,3,violet,Psych\nConsultant
+YREG,ED_Y,3,violet,Psych\nRegistrar
+PLN,ED_Y,3,violet,Psych\nLiaison Nurse
+POL,EXTERNAL,4,pink,Police
+SJA,EXTERNAL,4,pink,Ambulance
+CMH,EXTERNAL,4,pink,Community\nMental Health
+N,NURSE,5,cornflowerblue,Nurse
+TN,NURSE,5,cornflowerblue,Triage\nNurse
+AS,PUBLIC,6,coral,Associate
+PT,PUBLIC,6,coral,Patient
+CP,SUPPORT,7,deepskyblue,Clinical\nPsychologist
+DA,SUPPORT,7,deepskyblue,Drug and Alcohol
+SHACCS,SUPPORT,7,deepskyblue,SHACCS

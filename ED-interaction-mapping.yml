@@ -1,0 +1,17 @@
+name: ED-trajectory-mapping
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- jupyterlab
+- pandas
+- networkx
+- numpy
+- scipy
+- scikit-learn
+- imbalanced-learn
+- pygraphviz
+- matplotlib
+- tqdm
