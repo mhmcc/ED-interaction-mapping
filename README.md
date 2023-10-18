@@ -22,7 +22,7 @@ conda env create -f ED-interaction-mapping.yml
 
 <a id='data'></a>
 ## Data availability
-The data for this project are stored within this repository in `data.csv`. Note that date information has been shifted relative to an arbitrary start date of 01/01/1900 for data privacy.
+The data for this project are stored within this repository in `data.csv`. Note that date information has been altered for data privacy.
 
 ## References
 Please see the companion paper linked above for details of the methods and packages used in this code.

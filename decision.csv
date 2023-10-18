@@ -15,7 +15,7 @@ INVOL,2,Involuntary,box,dashed,grey,4,none,grey
 PRIVOL,2,Private\n(Voluntary),box,dashed,grey,4,none,grey
 ALONE,2,Alone,box,dashed,grey,4,none,grey
 ACCOM,2,Accompanied,box,dashed,grey,4,none,grey
-GP,2,GP,box,dashed,grey,4,none,grey
+GP,2,General\nPractitioner,box,dashed,grey,4,none,grey
 CP,2,Clinical\nPsychologist,box,dashed,grey,4,none,grey
 CMH,2,Community\nMental Health,box,dashed,grey,4,none,grey
 DAMA,2,Discharge\nAgainst\nMedical\nAdvice,ellipse,solid,grey,4,normal,black
