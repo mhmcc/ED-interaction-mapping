@@ -3,7 +3,7 @@ Jupyter notebook and Python code for the analysis of patient trajectories in a h
 
 > [TBA]
 
-<img src="media/network_communities.png" alt="ED interaction network" width="210"/> &emsp; <img src="media/predict_net.png" alt="Interaction feature importance for predicting the point of clinical referral" width="280"/>
+<img src="media/network_communities.png" alt="ED interaction network" width="240"/> &emsp; <img src="media/predict_net.png" alt="Interaction feature importance for predicting the point of clinical referral" width="312"/>
 
 ## Overview
 This repository contains:
