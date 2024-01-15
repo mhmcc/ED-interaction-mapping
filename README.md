@@ -44,6 +44,9 @@ If you use or adapt our code or methods in your research, please cite the compan
     number = {1},
 }
 ```
+This repository was archived on Zenodo upon publication:
+
+[![DOI](https://zenodo.org/badge/634750336.svg)](https://zenodo.org/doi/10.5281/zenodo.10511734)
 
 ## Questions
 Please email michael.mccullough@anu.edu.au if you have questions about the code.
