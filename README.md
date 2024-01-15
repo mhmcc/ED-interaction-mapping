@@ -1,7 +1,7 @@
 # Mapping patient interactions in psychiatric presentations to a tertiary emergency department
 Jupyter notebook and Python code for the analysis of patient trajectories in a hospital emergency department for individuals presenting with suspected risk of suicide or self-harm, as published in our study:
 
-> [TBA]
+> McCullough MH, Small M, Jayawardena B, Hood S (2024) Mapping clinical interactions in an Australian tertiary hospital emergency department for patients presenting with risk of suicide or self-harm: Network modeling from observational data. PLOS Medicine 21(1): e1004241. https://doi.org/10.1371/journal.pmed.1004241
 
 <img src="media/network_communities.png" alt="ED interaction network" width="240"/> &emsp; <img src="media/predict_net.png" alt="Interaction feature importance for predicting the point of clinical referral" width="312"/>
 
@@ -30,7 +30,19 @@ Please see the companion paper linked above for details of the methods and packa
 ## Citing this code
 If you use or adapt our code or methods in your research, please cite the companion paper linked above or as shown here in BibTeX format:
 ```
-[TBA]
+@article{10.1371/journal.pmed.1004241,
+    doi = {10.1371/journal.pmed.1004241},
+    author = {McCullough, Michael H. AND Small, Michael AND Jayawardena, Binu AND Hood, Sean},
+    journal = {PLOS Medicine},
+    publisher = {Public Library of Science},
+    title = {Mapping clinical interactions in an Australian tertiary hospital emergency department for patients presenting with risk of suicide or self-harm: Network modeling from observational data},
+    year = {2024},
+    month = {01},
+    volume = {21},
+    url = {https://doi.org/10.1371/journal.pmed.1004241},
+    pages = {1-21},
+    number = {1},
+}
 ```
 
 ## Questions
